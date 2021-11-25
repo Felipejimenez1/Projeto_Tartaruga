@@ -18,7 +18,7 @@ Plataforma utilizada para rodar o programa: Debian
 
 Comando para compilar: gcc -g -Wall -fopenmp -o projeto_tartaruga projeto_tartaruga.c
 
-Comando para executar: ./projeto_tartaruga.c
+Comando para executar: ./projeto_tartaruga.c 8
 
 Execucao:
 
