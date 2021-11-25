@@ -22,4 +22,4 @@ Comando para executar: ./projeto_tartaruga.c
 
 Execucao:
 
-![image](https://user-images.githubusercontent.com/68366383/143333948-4b8224a5-165a-447d-94a2-c4c7e5472823.png)
+![image](https://user-images.githubusercontent.com/68366383/143337825-9aed6b09-42d8-4b5c-8d54-998f87d6c1cd.png)
