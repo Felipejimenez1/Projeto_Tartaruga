@@ -20,3 +20,6 @@ Comando para compilar: gcc -g -Wall -fopenmp -o projeto_tartaruga projeto_tartar
 
 Comando para executar: ./projeto_tartaruga.c
 
+Execucao:
+
+![image](https://user-images.githubusercontent.com/68366383/143333948-4b8224a5-165a-447d-94a2-c4c7e5472823.png)
